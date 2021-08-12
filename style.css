@@ -50,6 +50,11 @@ div.logo>img {
 
 }
 
+div.al>img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
 .row2 {
     display: flex;
     margin-bottom: 20px;
@@ -97,8 +102,18 @@ div.logo>img {
     width: 100%;
     display: flex;
     
-
-.pic {
-    width: 25%;
+    justify-content: space-evenly;
+   
     
+}
+div.pic>img {
+    max-width: 100%;
+    max-height: 100%;
+    
+}
+
+div.pic3>img {
+    
+    max-width: 100%;
+    max-height: 100%;
 }
